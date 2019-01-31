@@ -18,7 +18,7 @@
 	console.log(capitalizedColors)
 	output: ["RED","GREEN","BLUE"]
 
-#filter:
+# filter:
 	var values = [1, 60, 34, 30, 20, 5]
 	function lessThan20(val) {
 	return val < 20
@@ -28,7 +28,7 @@
 	output: [1,5]
 
 
-#Find:
+# Find:
 	var people = [ 
 		{name: 'Jack', age: 50},
 		{name: 'Michael', age: 9},
@@ -43,7 +43,7 @@
     console.log('First found teenager:', firstTeenager.name)
 
 
-#every:
+# every:
     var people = [ 
 		{name: 'Jack', age: 50},
 		{name: 'Michael', age: 9},
@@ -58,7 +58,7 @@
     console.log('Everyone is teenager: ', everyoneIsTeenager)
     output: Everyone is teenager:  false
 
-#some:
+# some:
     var people = [ 
 		{name: 'Jack', age: 50},
 		{name: 'Michael', age: 9},
@@ -73,7 +73,7 @@
     console.log('There are teenagers:', thereAreTeenagers)
     output: There are teenagers: true
 
-#reduce:
+# reduce:
     var array = [1, 2, 3, 4]
     function sum(acc, value) {
         return acc + value 

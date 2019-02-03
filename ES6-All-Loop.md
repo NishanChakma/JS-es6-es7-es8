@@ -78,7 +78,7 @@
     Innerloop: 2 
     Innerloop: 3 
     Outerloop: 4
-# outerloop: // This is the label name  
+# outerloop:
     for (var i = 0; i < 3; i++) {  
     console.log("Outerloop: " + i);      
         for (var j = 0; j < 5; j++) {  

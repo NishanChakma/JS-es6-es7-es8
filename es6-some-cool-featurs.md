@@ -85,3 +85,21 @@
      output:
      First element is 1, second is 2 
      Second element is 2, fourth is 4 
+
+
+
+⊂_ヽ
+　 ＼＼ 
+　　 ＼( ͡° ͜ʖ ͡°)
+　　　 >　⌒ヽ
+　　　/ 　 へ＼
+　　 /　　/　＼＼
+　　 ﾚ　ノ　　 ヽ_つ
+　　/　/
+　 /　/|
+　(　(ヽ
+　|　|、＼
+　| 丿 ＼ ⌒)
+　| |　　) /
+ノ )　　Lﾉ
+(_／
